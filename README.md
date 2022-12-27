@@ -6,7 +6,8 @@ Icarus Hidden Desktop focuses to provide a simple and easy-to-use clean UI, all 
 ## Photo
 
 ## Which Browsers does it work on?
-* -Chrome_ ![chrome--v3](https://user-images.githubusercontent.com/107614511/209736246-91e8bdc2-e38f-4c88-b3e5-3ca308764240.png)
+* -Chrome_ ![chrome](https://user-images.githubusercontent.com/107614511/209736293-1dfe6a32-1110-4b91-8f30-388e56152e86.png)
+
 
 
 ## Features
