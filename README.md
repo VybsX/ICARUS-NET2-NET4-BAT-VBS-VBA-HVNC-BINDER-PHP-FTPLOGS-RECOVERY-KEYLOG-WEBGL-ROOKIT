@@ -17,35 +17,35 @@ Icarus Hidden Desktop focuses to provide a simple and easy-to-use clean UI, all 
 
 
 ## Features
-* **Bypass 2fa
-* **WebGL support
-* **Encrypted Connection
-* **Natifve Crypter Compatibilty
-* **Net 2 Payload
-* **Net 4 Payload
-* **Proc Watcher
-* **Anti Debug
-* **Fale :pgon
-* **Get Clipboard
-* **Export as .bat
+* **Bypass 2fa**
+* **WebGL support**
+* **Encrypted Connection**
+* **Natifve Crypter Compatibilty**
+* **Net 2 Payload**
+* **Net 4 Payload**
+* **Proc Watcher**
+* **Anti Debug**
+* **Fale :pgon**
+* **Get Clipboard**
+* **Export as .bat**
 * **Export as .bin 
-* **Sart/Stop all Functions
-* **Rookit HVNC
-* **Telegram Stealer
-* **Discord Stealer
-* **Password Recovery(HQ)
-* **File Grabber
-* **Anti VM
-* **Export as macro
-* **Keylogger
-* **WD Exclusion
-* **Quality Support
-* **Profile Cloner
-* **Reverse Connection
-* **Reflective Stub
-* **RunPE
-* **Encrypted Connection
-* **Lightweight TCP Server
-* **Xor/AES Encryption
-* **Export as .vbs
-* **Geo Location
+* **Sart/Stop all Functions**
+* **Rookit HVNC**
+* **Telegram Stealer**
+* **Discord Stealer**
+* **Password Recovery(HQ)**
+* **File Grabber**
+* **Anti VM**
+* **Export as macro**
+* **Keylogger**
+* **WD Exclusion**
+* **Quality Support**
+* **Profile Cloner**
+* **Reverse Connection**
+* **Reflective Stub**
+* **RunPE**
+* **Encrypted Connection**
+* **Lightweight TCP Server**
+* **Xor/AES Encryption**
+* **Export as .vbs**
+* **Geo Location**
