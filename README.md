@@ -1,10 +1,42 @@
-# ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT
+<h1 align="center">
+  <br>
+  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="ICARUS HVNC"></a>
+  <br>
+  ICARUS HVNC
+  <br>
+</h1>
+
+# IMPORTANT INFO
+**yes, I know there are a lot of people trying to imitate me.but don't try this, you're just wasting time.i don't know, there are really a lot of people, maybe we will do these things together in 2023, I will add real contact information soon**
 
 ## Info
-Icarus Hidden Desktop focuses to provide a simple and easy-to-use clean UI, all functions are executed on the hidden desktop. Keylogger,Clipboard,geolocaltion,browsers,apps,System Settings, and even mstsc.exe (RDP) can be started from a hidden desktop. Thic hvnc is unic because of the features it offers, features like hidden discord, hidden telegram,hidden skype,hidden ding talk and to much more. those are some of them: 
+Icarus Hidden Desktop focuses to provide a simple and easy-to-use clean UI, all functions are executed on the hidden desktop. Keylogger,Clipboard,geolocaltion,browsers,apps,System Settings, and even mstsc.exe (RDP) can be started from a hidden desktop. Thic hvnc is unic because of the features it offers, features like hidden discord, hidden telegram,hidden skype,hidden ding talk and to much more. those are some of them:
 
 ## Photo
 
+
+## Question&Answer
+<details>
+<summary>What is Hidden VNC</summary>
+Hidden VNC is technique used by most advanced users, and by fark the most exiciting way to manage your Computer System hidden without interacting with the main desktop at all, simply because it creates a new hidden desktop.
+  </details>
+
+ <details>
+<summary>Since you mentioned that the software is used by advanced users,does it imply that i won't be able to use it since i am a intermediate user </summary>
+Absolutely not, the software is desinged for intermediate users as well allowing you with click of a button to manage your computer systems.
+  </details>
+
+<details>
+<summary>What can i do with it?</summary>
+Once the Hidden VNC is installed on your remote computer,you will be able to interact with it sliently without any pop ups.
+  </details>
+
+<details>
+<summary>Is the Software compatible with all windows versions?</summary>
+**Yes it is compatible with all Windows Versions 32/64 bit except Windows Xp and Vista.
+  </details>
+  
+  
 ## Which Browsers does it work on?
 ![icons8-chrome-48](https://user-images.githubusercontent.com/107614511/209736395-3071a3c4-1eb4-4c76-b6ad-dab9dbe82b03.png)
 ![icons8-brave-web-browser-48](https://user-images.githubusercontent.com/107614511/209736360-8bfe2757-fbab-4751-9a0d-82d80d8aefd5.png)
@@ -57,3 +89,9 @@ __ChangeIcon____Export .bin____Folder Name____File Name____Port____Ip/Dns____Wat
 
 **Export AS**
 __AMSI bypass____ETW Bypass____API unhooking____NET 2____NET 4____Sheelcode____BATCH SCRIPT____EXE____VBA____VBS__
+
+## Licanse
+```
+As of right now, this program does not have a license. This will change in the future. The goal is to have a non-commercial license so that people can learn from this without being able to swoop in and make money off of a project I've put my unpaid free time into.
+I intend to maintain all rights to the source code produced for this project but to grant a non-commercial license to anyone who wants one; however, this license is still to be determined and the repository does not yet have a license allowing you to use or copy this source code. This section is merely a heads up to let you know a bit about the future of this project and is not a license to use this source code.
+```
