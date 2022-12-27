@@ -13,39 +13,39 @@ Icarus Hidden Desktop focuses to provide a simple and easy-to-use clean UI, all 
 ![icons8-vivaldi-web-browser-48](https://user-images.githubusercontent.com/107614511/209736487-77955215-7b23-4254-ba01-208cab60f2f0.png)
 ![icons8-opera-48](https://user-images.githubusercontent.com/107614511/209736494-a1421533-d1e0-4b1b-86e0-d5efa6b065dc.png)
 
-
+**-&Chrome&--&Brave&--&Edge&--&Firefox&--&Vivaldi&--&Sputnik&--&360&--&Opera&-**
 
 
 ## Features
-* Bypass 2fa
-* WebGL support
-* Encrypted Connection
-* Natifve Crypter Compatibilty
-* Net 2 Payload
-* Net 4 Payload
-* Proc Watcher
-* Anti Debug
-* Fale :pgon
-* Get Clipboard
-* Export as .bat
-* Export as .bin 
-* Sart/Stop all Functions
-* Rookit HVNC
-* Telegram Stealer
-* Discord Stealer
-* Password Recovery(HQ)
-* File Grabber
-* Anti VM
-* Export as macro
-* Keylogger
-* WD Exclusion
-* Quality Support
-* Profile Cloner
-* Reverse Connection
-*  Reflective Stub
-* RunPE
-* Encrypted Connection
-* Lightweight TCP Server
-* Xor/AES Encryption
-* Export as .vbs
-* Geo Location
+* **Bypass 2fa
+* **WebGL support
+* **Encrypted Connection
+* **Natifve Crypter Compatibilty
+* **Net 2 Payload
+* **Net 4 Payload
+* **Proc Watcher
+* **Anti Debug
+* **Fale :pgon
+* **Get Clipboard
+* **Export as .bat
+* **Export as .bin 
+* **Sart/Stop all Functions
+* **Rookit HVNC
+* **Telegram Stealer
+* **Discord Stealer
+* **Password Recovery(HQ)
+* **File Grabber
+* **Anti VM
+* **Export as macro
+* **Keylogger
+* **WD Exclusion
+* **Quality Support
+* **Profile Cloner
+* **Reverse Connection
+* **Reflective Stub
+* **RunPE
+* **Encrypted Connection
+* **Lightweight TCP Server
+* **Xor/AES Encryption
+* **Export as .vbs
+* **Geo Location
