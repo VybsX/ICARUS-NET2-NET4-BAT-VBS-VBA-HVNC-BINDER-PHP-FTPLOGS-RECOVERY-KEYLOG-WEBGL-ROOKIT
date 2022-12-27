@@ -28,7 +28,7 @@ Icarus Hidden Desktop focuses to provide a simple and easy-to-use clean UI, all 
 * **Fale :pgon**
 * **Get Clipboard**
 * **Export as .bat**
-* **Export as .bin 
+* **Export as .bin**
 * **Sart/Stop all Functions**
 * **Rookit HVNC**
 * **Telegram Stealer**
