@@ -49,3 +49,11 @@ Icarus Hidden Desktop focuses to provide a simple and easy-to-use clean UI, all 
 * **Xor/AES Encryption**
 * **Export as .vbs**
 * **Geo Location**
+
+## Stub Builder/Export AS
+
+**Startup Builder** 
+__ChangeIcon____Export .bin____Folder Name____File Name____Port____Ip/Dns____Watcher____Startup/Task____ID____Rootkit__
+
+**Export AS**
+__AMSI bypass____ETW Bypass__API unhooking____.NET 2____.NET 4____Sheelcode__BATCH SCRIPT____EXE____VBA____VBS__
