@@ -112,3 +112,5 @@ __AMSI bypass____ETW Bypass____API unhooking____NET 2____NET 4____Sheelcode____B
 As of right now, this program does not have a license. This will change in the future. The goal is to have a non-commercial license so that people can learn from this without being able to swoop in and make money off of a project I've put my unpaid free time into.
 I intend to maintain all rights to the source code produced for this project but to grant a non-commercial license to anyone who wants one; however, this license is still to be determined and the repository does not yet have a license allowing you to use or copy this source code. This section is merely a heads up to let you know a bit about the future of this project and is not a license to use this source code.
 ```
+
+##   <p align="center">  Copyright © 2022 
